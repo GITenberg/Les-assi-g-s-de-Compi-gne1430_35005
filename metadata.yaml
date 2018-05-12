@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1043
     wikipedia: http://en.wikipedia.org/wiki/Albert_Robida
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35005#Les-assi-g-s-de-Compi-gne1430
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2011-01-19'
 gutenberg_type: Text
