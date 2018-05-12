@@ -1,0 +1,30 @@
+_repo: Les-assi-g-s-de-Compi-gne1430_35005
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35005-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Robida, Albert
+    alias: Robida, A. (Albert)
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '1043'
+    url: http://www.gutenberg.org/2009/agents/1043
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Robida
+description: Illustrated by the author.
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2011-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35005'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcc 'PZ'
+- !lcsh 'Compiègne (France) -- History -- Siege, 1430 -- Fiction'
+title: Les assiègés de Compiègne, 1430
+url: http://www.gutenberg.org/ebooks/35005
